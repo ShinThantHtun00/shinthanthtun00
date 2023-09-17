@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **Golang , C PlusPlus and Java**
+- 🌱 I’m currently learning **Golang , C PlusPlus , Rust and Zig**
 
 - 📫 How to reach me **shinthanthtun00gmail.com**
 
